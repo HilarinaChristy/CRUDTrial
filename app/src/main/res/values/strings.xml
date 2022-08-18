@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRUD TUTORIAL(TRIAL)</string>
+    <string name="tv_Username">Username :</string>
+    <string name="tv2_Password">Password :</string>
+    <string name="btn1_SelectAll">SELECT ALL</string>
+    <string name="BTN2_add">ADD</string>
+    <string name="BTN3_signIn">SIGN IN</string>
+    <string name="BTN4_dELETE">DELETE</string>
+    <string name="BTN5_UPDATE">UPDATE</string>
+</resources>
